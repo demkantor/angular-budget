@@ -15,8 +15,8 @@ export class EditItemModalComponent implements OnInit {
   ngOnInit(): void {
   }
 
-  onSubmitter(updatedItem: BudgetItem) {
-    
+  onSubmitted(updatedItem: BudgetItem) {
+
   }
 
 }
