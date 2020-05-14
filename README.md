@@ -6,6 +6,9 @@
     keeps a running total of money in vs money out
     value and description editable
 
+## Screen Shot
+![Screenshot](/src/assets/example.gif?raw=true "Short Intro gif")
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
